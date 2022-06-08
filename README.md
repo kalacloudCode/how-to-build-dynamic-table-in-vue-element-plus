@@ -11,4 +11,4 @@
 - 如何在 Element Plus 中创建动态多级表头
 
 先来展示个「动态修改表格」的最终效果图吧
-![Vue3 + Element Plus动态修改表格](./images/07-kalacloud-vue3-element-plus-dynamic-modify.gif)
+![Vue3 + Element Plus动态修改表格](kalacloud-vue3-element-plus-dynamic-modify.gif)
